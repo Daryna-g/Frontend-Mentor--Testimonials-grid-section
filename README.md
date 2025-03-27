@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/faq-accordion-1XXY7L4Bw5)
-- Live Site URL: [Live Site](https://daryna-g.github.io/Frontend-Mentor--FAQ-accordion/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-MOj9eta3Zh)
+- Live Site URL: [Live Site](https://daryna-g.github.io/Frontend-Mentor--Testimonials-grid-section/)
 
 ## My process
 
